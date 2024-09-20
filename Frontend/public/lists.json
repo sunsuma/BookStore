@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"story",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":0,
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    },
+    {
+        "id":2,
+        "name":"Drama",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":0,
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    },
+    {
+        "id":3,
+        "name":"History",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":0,
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    },
+    {
+        "id":4,
+        "name":"Poem",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":0,
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    },
+    {
+        "id":5,
+        "name":"G.k",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":0,
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    },
+    {
+        "id":6,
+        "name":"Novel",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":200,
+        "category":"Novel",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    },
+    {
+        "id":7,
+        "name":"Universe",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":0,
+        "category":"Universe",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    },
+    {
+        "id":8,
+        "name":"The Vibes",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":200,
+        "category":"Vibes",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    },
+    {
+        "id":9,
+        "name":"Challenges",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex assumenda perspiciatis.",
+        "price":200,
+        "category":"Challanges",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726431734~exp=1726435334~hmac=8fefb92b9f06e5adfc3026f50bae889bdf7e5cd1a126f1c80f1f1178284a590a&w=740"
+    }
+]
